@@ -1,5 +1,3 @@
-<! -- Hi there 👋 -->
-
 <!--
 **Arunkumar032024/ArunKumar032024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
