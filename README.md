@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 🌟 Welcome to My GitHub Profile! 
 
-![Header Banner](https://your-image-link.com)
+![Header Banner][(https://github.com/Arunkumar032024/ArunKumar032024/blob/main/image.png?raw=true)]
 
-Hi, I'm [Your Name] 👋  
+Hi, I'm Arun 👋  
 Aspiring Web Developer | Freelancer | Passionate Learner  
 
 ---
@@ -48,7 +48,7 @@ Aspiring Web Developer | Freelancer | Passionate Learner
 ---
 
 ## 🌐 Connect with Me  
-- 🌎 [Portfolio](https://yourportfolio.com)  
+- 🌎 [Portfolio]((https://bit.ly/my-portfolio-032024))  
 - 💼 [LinkedIn](https://linkedin.com/in/YourProfile)  
 - 🐦 [Twitter](https://twitter.com/YourUsername)  
 - 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
