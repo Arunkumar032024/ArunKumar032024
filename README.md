@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 🌟 Welcome to My GitHub Profile! 
 
-![Header Banner][(https://github.com/Arunkumar032024/ArunKumar032024/blob/main/image.png?raw=true)]
+![Header Banner](https://github.com/Arunkumar032024/ArunKumar032024/blob/main/image.png?raw=true)
 
 Hi, I'm Arun 👋  
 Aspiring Web Developer | Freelancer | Passionate Learner  
