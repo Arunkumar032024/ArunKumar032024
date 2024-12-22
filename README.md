@@ -48,10 +48,10 @@ Aspiring Web Developer | Freelancer | Passionate Learner
 ---
 
 ## 🌐 Connect with Me  
-- 🌎 [Portfolio](https://bit.ly/my-portfolio-032024)  
-- 💼 [LinkedIn](https://linkedin.com/in/YourProfile)  
-- 🐦 [Twitter](https://twitter.com/YourUsername)  
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- 🌎 [Portfolio](https://bit.ly/portfolioArunKumar)
+- 💼 [LinkedIn](https://bit.ly/linkedinArunkumar)
+- 🐦 [Twitter](https://bit.ly/xArunkumar)  
+- 📧 Email: [arunkumar032024@gmail.com](mailto:arunkumar032024@gmail.com)
 
 ---
 
