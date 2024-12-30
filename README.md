@@ -15,8 +15,15 @@ In my role, I focus on building and optimizing web applications, ensuring a seam
 - To grow as a full-stack developer.
 
 
+### 🌱 **I’m currently learning:**  
+
+- **Web Development**: Exploring modern technologies like HTML, CSS, JavaScript, and frameworks to build interactive and responsive websites.  
+- **Data Structures & Algorithms (DSA)**: Sharpening problem-solving skills and understanding core concepts for coding efficiency.  
+- **English Speaking**: Improving communication skills to connect globally and express ideas effectively.  
+
+I’m excited to grow every day and turn my knowledge into impactful projects. Let’s build something amazing together!  
+
 ### pending...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
